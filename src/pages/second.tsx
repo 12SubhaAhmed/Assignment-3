@@ -40,7 +40,7 @@ export default function Second(){
                     </div>
                     <div className="w-[186px] h-[63px] mt-14 rounded-[6px] flex bg-[#4f9cf9] pt-[20px] pr-[40px] pb-[20px] pl-[40px] gap-[10px]">
                         <button className="text-white text-lg">Try it now</button>
-                        <div><img className="size-3 mt-2" src="Image/Group 212.png" alt="arrow"/></div> </div>
+                        <div><img className="size-3 mt-2" src="Image/Group 212.png" alt="arrow"/></div></div>
                 </div>
              </div>
         </div>

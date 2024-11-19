@@ -3,7 +3,7 @@ import Hero from "./hero";
 import Second from "./second";
 import Third , {Forth,Fifth,Sixth,Seventh} from "./third";
 
-export default function Home() {
+export default function home() {
   return (
     <div className="w-[1922px] h-[5669px] top-[-4239px] left-[-961px] bg-white">
       <div className="navbar w-[1920px] h-[92px] left-[1px] justify-between pt-[16px] pr-[220px] pb-[16px] pl-[220px] bg-[#043873] flex items-center">
